@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [site URL here](https://masterpm.github.io/results-summary-component-main/)
+- Live Site URL: [site URL here](https://masterpm.github.io/Interactive-rating-component-main/)
 
 ## My process
 
